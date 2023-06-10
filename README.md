@@ -1,1 +1,1 @@
-# Semaforo-js
+# Semaforo-JS
